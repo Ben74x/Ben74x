@@ -1,5 +1,5 @@
 - :wave: Hi, I’m Ben!
-- :eyes: I’m interested in all things related to Cloud Computing and Machine Learning 
+- :eyes: I’m interested in all things related to Big Data, AI and Cloud Computing
 - :seedling: I'm currently devoting all of my creative time to exploring Green Cloud Computing and AI in Cloud.
 - :earth_africa: You can learn more about me on <a href="https://bdwumah.dev/">bdwumah.dev</a>
 <!--
